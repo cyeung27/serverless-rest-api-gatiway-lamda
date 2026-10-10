@@ -1,4 +1,4 @@
-# Serverless Intake API — API Gateway + Lambda Authorizer
+# Serverless Rest API — API Gateway + Lambda Authorizer
 
 AWS REST API prototype demonstrating authorization, validation, deployment stages, throttling, and Lambda proxy integration in `us-east-1`.
 
